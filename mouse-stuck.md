@@ -18,3 +18,14 @@
 * https://askubuntu.com/questions/975000/dragn-drop-from-desktop-mouse-stuck-in-hand-icon?noredirect=1
 * https://askubuntu.com/questions/934910/mouse-cursor-gets-stuck-in-drag-and-drop-mode
 
+
+### questions: 
+
+ * do we have the option of running a js w/i [github.com][gh] ?
+
+ testing : ``<script> console.log('hello you !')</script>``
+<script> console.log('hello you !')</script>
+ 
+
+
+[gh]: https://github.com/michel47/annoyances
