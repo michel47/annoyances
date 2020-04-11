@@ -14,6 +14,7 @@
    
 ## see also :
 
+* https://www.one-tab.com/page/UoLsKojwRLywF-NL23Oapg
 * https://duckduckgo.com/?q=ubuntu+drap+and+drop+doesnt+work&t=brave&ia=web
 * https://askubuntu.com/questions/975000/dragn-drop-from-desktop-mouse-stuck-in-hand-icon?noredirect=1
 * https://askubuntu.com/questions/934910/mouse-cursor-gets-stuck-in-drag-and-drop-mode
