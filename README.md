@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 ## list of annoyance and their solutions ...
 
@@ -15,7 +16,7 @@
  * [ZZZ lists](https://workflowy.com/s/zzz/a81aB20G9AH5LTIe)
  * [seen & noticed][S&N]
 
-
+ * see also [cost of bugs](https://duckduckgo.com/?q=!g+cost+of+bugs)
 
 
 
