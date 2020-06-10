@@ -7,7 +7,7 @@
 
 ### List of found bugs
 
- * [bugs-found](bugs-found) (from [pwiki])
+ * [found-bugs][FBUGS] (from [pwiki])
  * submit your bug to my list [here](https://workflowy.com/s/input-bucket/h4tBOI3XE5XM6zIJ)
 
 ### Miscellaneous from [workflowy][WFY]:
@@ -24,6 +24,7 @@
 [~michelc](https://workflowy.com/#/543361208bf6)
 
 
+[FBUGS]: https://framagit.org/michelsphere/mywiki/-/wikis/found-bugs
 [WFY]: https://workflowy.com/#/
 [pwiki]: https://framagit.org/michelsphere/mywiki/-/wikis/home
 [S&N]: https://workflowy.com/#/d23652ec2f22
