@@ -2,6 +2,10 @@ body {
   background-image: URL(https://cdn.statically.io/img/gateway.ipfs.io/ipfs/uAXAAMBIqChgBcBEUKQ943YVd34dWm0AahZN_qi6gjRwSCmFudC1iZy5qcGcYoZAKCgIIAQ/ant-bg.jpg);
   background-size: 100%;
 }
+img.inline {
+  height: 1.5rem;
+  display: inline;
+}
 .hero {
   max-width: 90%;
   margin: auto;
