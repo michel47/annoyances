@@ -3,8 +3,9 @@ layout: default
 ---
 ## list of annoyance and their solutions ...
 
-
 * [ubuntu problem with nautilus drag-and-drop mouse stuck in select mode](mouse-stuck.html)
+* [mailto:URL hijacked on brave](mailto-hijack.md)
+* [Alien::ProtoBuf perl install failed](ap-install.html)
 
 ### List of found bugs
 
