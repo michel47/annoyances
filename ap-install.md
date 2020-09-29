@@ -31,8 +31,12 @@ No 'Build' created  MBARBON/Alien-ProtoBuf-0.09.tar.gz
 ## solution
 
 ```sh
+sudo apt autoremove
+sudo apt-get update
 sudo aptitude search protobuf
-sudo apt-get install libprotobuf-c libprotobuf-dev
+sudo apt-get install libprotobuf-dev
+sudo cpan install Alien::ProtoBuf
+
 ```
 
 
