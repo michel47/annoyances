@@ -7,9 +7,16 @@ layout: default
 * [mailto:URL hijacked on brave](mailto-hijack.md)
 * [Alien::ProtoBuf perl install failed](ap-install.html)
 * [Google::ProtocolBuffers::Dynamic install failed](protobuf-install.html)
+* [git ssh invalid key](git-load-pubkey.html)
+* [permission on an NTFS drive](ntfs-permission.html)
 
 
-check also our git-pages : <https://michel47.gihub.io/annoyances/>
+### the newly discovered ones from ubuntu 20.04 LTS (Groovy Gorilla)
+
+* [the list](thelist.html)
+
+
+check also our git-pages : <https://michel47.github.io/annoyances/>
 
 ### List of found bugs
 
@@ -24,7 +31,14 @@ check also our git-pages : <https://michel47.gihub.io/annoyances/>
  * see also [cost of bugs](https://duckduckgo.com/?q=!g+cost+of+bugs)
 
 
-
+### OS details :
+ 
+to know your OS details, run the following commands:
+```
+lsb_release -a
+uname -a
+arch
+```
 
 --&nbsp;<br>
 [~michelc](https://workflowy.com/#/543361208bf6)

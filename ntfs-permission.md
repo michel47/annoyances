@@ -12,3 +12,5 @@ echo "UUID=$UUID /data ntfs-3g rw,nosuid,nodev,relatime,permissions,umask=0022 0
 ```
 
 
+see also [1](https://wiki.epfl.ch/icit/kb/linux-mount-ntfs-with-permissions)
+
