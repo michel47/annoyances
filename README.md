@@ -9,6 +9,7 @@ layout: default
 * [Google::ProtocolBuffers::Dynamic install failed](protobuf-install.html)
 * [git ssh invalid key](git-load-pubkey.html)
 * [permission on an NTFS drive](ntfs-permission.html)
+* [MD6 perl modules fail to install](MD6-perl-mod.html)
 
 
 ### the newly discovered ones from ubuntu 20.04 LTS (Groovy Gorilla)
